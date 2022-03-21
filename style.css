@@ -41,6 +41,7 @@
 
 .site_box:hover > .icon_more {
   opacity: 100%;
+
   transition: 1s;
   transition-timing-function: step-end;
 }
